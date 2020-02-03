@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "927500265618",
+    "firebase_url": "https://blockapp-d828d.firebaseio.com",
+    "project_id": "blockapp-d828d",
+    "storage_bucket": "blockapp-d828d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:927500265618:android:75cbe7ff2847a4f8911e4b",
+        "android_client_info": {
+          "package_name": "com.example.blockapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "927500265618-3j0nfkii173s1krq06m0aslk6l5fm6od.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.blockapp",
+            "certificate_hash": "44412cdcc72825d4869f69cf7e9a7e5ef857add4"
+          }
+        },
+        {
+          "client_id": "927500265618-p1uuive9r5npanu81g1ueglkctb2i5bq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAE7U04jNc5kzeErkTVns8MrAoCYG8ftmM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "927500265618-p1uuive9r5npanu81g1ueglkctb2i5bq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
